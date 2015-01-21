@@ -4,6 +4,8 @@
 This is the follow up for a presentation given at a Booking.com Design Jam, "git bisect for Designers." We needed a practice area for everyone to work with, outside of our internal code systems...so I've made this.
 
 ### How to use it?
+**Only works in Google Chrome...right now**
+
 There are a few bugs introduced throughout this very short amount of git commits. The point is to fix each one, individually, using git bisect. The bugs are as follows:
 
 	1. L has a spelling error.
